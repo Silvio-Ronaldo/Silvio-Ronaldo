@@ -2,7 +2,7 @@
 
 <p>I am a computer science student at UNICAMP, looking for opportunities to collaborate on projects and jobs that positively impact society.</p>
 
-- 🔭 I'm currently working on new fullstack projects, with React, React Native and Node, which help in my learning and, at the same time, add to solve someone's pain.
+- 🔭 I'm currently working on new web/mobile projects, with React and React Native, which help in my learning and, at the same time, add to solve someone's pain.
 - 🌱 I'm currently learning more about full stack development, with React, NextJS, Node, React Native, PostgreSQL and other derivative technologies.
 - 👯 I'm looking to collaborate on projects and solutions for technologies, development, full stack or not, or something of the scope that has a purpose in society.
 - 💬 Ask me about anything you want, if I can, I would love to answer.
